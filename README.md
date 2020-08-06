@@ -2,9 +2,9 @@
 
 This repository contains code and data implementing the methods and experiments described in
 
-Afrabandpey, H., Peltola, T., Piironen, J., Vehtari, A., and Kaski, S. "**Making Bayesian predictive models interpretable: a decision theoretic approach**." arXiv preprint arXiv:1910.09358 (2019)
+Afrabandpey, H., Peltola, T., Piironen, J., Vehtari, A., and Kaski, S. "**A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework**." arXiv preprint arXiv:1910.09358 (2019)
 
-The paper is available in https://arxiv.org/abs/1910.09358. 
+The paper is available in https://arxiv.org/abs/1910.09358v2. 
 
 ## Overview
 
@@ -49,4 +49,4 @@ To reproduce results of the illustrative example in Section 2.2.1, run the Pytho
  
  ## Reference
 
- * Afrabandpey, H., Peltola, T., Piironen, J., Vehtari, A., and Kaski, S. "**Making Bayesian predictive models interpretable: a decision theoretic approach**." arXiv preprint arXiv:1910.09358 (2019) https://arxiv.org/abs/1910.09358
+ * Afrabandpey, H., Peltola, T., Piironen, J., Vehtari, A., and Kaski, S. "**A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework**." arXiv preprint arXiv:1910.09358 (2019) https://arxiv.org/abs/1910.09358v2
