@@ -42,7 +42,7 @@ To reproduce results of the illustrative example in Section 2.2.1, run the Pytho
 
 ## Contact
 
- * Homayun Afrabandpey, homayun.afrabandpey@helsinki.fi
+ * Homayun Afrabandpey, homayun.afrabandpey@nokia.com
  * Tomi Peltola, tomi.peltola@tmpl.fi
  
  Work done in the [Probabilistic Machine Learning research group](https://research.cs.aalto.fi/pml/) at [Aalto University](https://www.aalto.fi/fi).
